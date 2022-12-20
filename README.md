@@ -5,7 +5,7 @@ I'm Andrew Mugisha, a Full-stack Web Developer proficient in React.js, Node.js, 
 - 🔭 I’m currently working on a Social Media Influencer Portal
 - 👯 I’m looking to collaborate on React.js projects
 - 💬 Ask me about React, Javascript, CSS and HTML.
-- 📫 How to reach me: write to andrew@mugisha.dev
+- 📫 How to reach me: send an email to andrew@mugisha.dev
 <!--
 **andrew-mugisha/andrew-mugisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
